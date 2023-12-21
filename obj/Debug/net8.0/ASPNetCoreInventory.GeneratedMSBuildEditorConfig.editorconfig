@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPNetCoreInventory
+build_property.RootNamespace = ASPNetCoreInventory
+build_property.ProjectDir = D:\TrainingWorkshop\ASPNetCoreBasic\ASPNetCoreInventory\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\TrainingWorkshop\ASPNetCoreBasic\ASPNetCoreInventory
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Backend/Forgotpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2VuZFxGb3Jnb3RwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Backend/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2VuZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Backend/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2VuZFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Backend/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2VuZFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Frontend/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRlbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/backend/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGJhY2tlbmRcZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/backend/navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGJhY2tlbmRcbmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/backend/sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGJhY2tlbmRcc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/frontend/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGZyb250ZW5kXGZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/frontend/navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGZyb250ZW5kXG5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/_Authen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/_Backend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWNrZW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TrainingWorkshop/ASPNetCoreBasic/ASPNetCoreInventory/Views/Shared/_Frontend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gcm9udGVuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-364k5fczhs

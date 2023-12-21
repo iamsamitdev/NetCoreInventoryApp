@@ -1,0 +1,19 @@
+﻿@{
+    // Layout = "_Backend";
+
+    // เขียนเงื่อนไขในการเลือก Layout
+    string CurrentReq = Context.Request.HttpContext.Request.RouteValues["Controller"].ToString();
+
+    switch (CurrentReq)
+    {
+        case "Frontend":
+            Layout = "_Frontend";
+            break;
+        case "Backend":
+            Layout = "_Backend";
+            break;
+        default:
+            Layout = "_Frontend";
+            break;
+    }
+}

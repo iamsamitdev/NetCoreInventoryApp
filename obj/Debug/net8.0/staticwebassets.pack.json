@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASPNetCoreInventory.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASPNetCoreInventory.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\backend\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\backend\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\backend\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\backend\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\backend\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\css\\styles.css",
+      "PackagePath": "staticwebassets\\backend\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\backend\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\backend\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\frontend\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\map-image.png"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\frontend\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\css\\styles.css",
+      "PackagePath": "staticwebassets\\frontend\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\frontend\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\frontend\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASPNetCoreInventory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASPNetCoreInventory.props",
+      "PackagePath": "build\\ASPNetCoreInventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPNetCoreInventory.props",
+      "PackagePath": "buildMultiTargeting\\ASPNetCoreInventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASPNetCoreInventory.props",
+      "PackagePath": "buildTransitive\\ASPNetCoreInventory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
