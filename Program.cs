@@ -1,3 +1,5 @@
+using ASPNetCoreInventory.Models;
+
 namespace ASPNetCoreInventory
 {
     public class Program
@@ -8,6 +10,9 @@ namespace ASPNetCoreInventory
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Add database context
+            builder.Services.AddDbContext<InventoryDBContext>();
 
             var app = builder.Build();
 

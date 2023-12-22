@@ -1,10 +1,17 @@
 ﻿using ASPNetCoreInventory.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ASPNetCoreInventory.Controllers
 {
     public class BackendController : Controller
     {
+
+        private readonly InventoryDBContext _context;
+        public BackendController(InventoryDBContext context) {
+            _context = context;
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -66,6 +73,12 @@ namespace ASPNetCoreInventory.Controllers
         public IActionResult Forgotpassword()
         {
             return View();
+        }
+
+        // อ่านมูลจากตาราง Product แล้วส่งไปแสดงผลที่หน้า View
+        public async Task<IActionResult> Product()
+        {
+            return _context.Products != null ? View(await _context.Products.ToListAsync()) : Problem("Product  is empty");
         }
 
     }
