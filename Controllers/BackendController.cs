@@ -58,7 +58,9 @@ namespace ASPNetCoreInventory.Controllers
             {
                 message = "ป้อนข้อมูลให้ครบก่อน";
             }
-            return View();
+
+           ViewBag.Message = message;
+           return View();
         }
 
         public IActionResult Forgotpassword()
