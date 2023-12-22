@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\backend\\assets\\img\\error-404-monochrome.svg"
     },
     {
+      "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\img\\logo-food.png",
+      "PackagePath": "staticwebassets\\backend\\assets\\img\\logo-food.png"
+    },
+    {
       "Id": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\css\\styles.css",
       "PackagePath": "staticwebassets\\backend\\css\\styles.css"
     },

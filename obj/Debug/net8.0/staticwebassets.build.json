@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/tWHJ2NikxmqPnImZQAHVBGl3af1UQemo0IFmzOG9+0=",
+  "Hash": "eRCvpjwe49YOeC5JVnlG35+SCAfZ3XSFUgIbFT4tZ4U=",
   "Source": "ASPNetCoreInventory",
   "BasePath": "_content/ASPNetCoreInventory",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\backend\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Identity": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\assets\\img\\logo-food.png",
+      "SourceId": "ASPNetCoreInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\",
+      "BasePath": "_content/ASPNetCoreInventory",
+      "RelativePath": "backend/assets/img/logo-food.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\backend\\assets\\img\\logo-food.png"
     },
     {
       "Identity": "D:\\TrainingWorkshop\\ASPNetCoreBasic\\ASPNetCoreInventory\\wwwroot\\backend\\css\\styles.css",
